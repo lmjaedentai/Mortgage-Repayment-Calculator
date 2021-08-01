@@ -2,7 +2,9 @@
 Calculate Mortage Loan🏡💵 and export analysis as CSV📑
 
 
- <img src="https://github.com/lmjaedentai/Mortage-Loan-Calculator/blob/main/documentation/screenshot.jpg?raw=true" width=700px>
+ <img src="https://user-images.githubusercontent.com/63090071/127773896-563eb2ec-521c-4721-80b8-392e5be2d8e9.png" width=700px>
+
+
 
 <hr>
 
