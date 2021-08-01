@@ -6,6 +6,7 @@ from tkinter import messagebox
 from tkinter import filedialog
 from PIL import Image
 from pathlib import Path
+import webbrowser
 
 firstclick = True 
 totalperiod = 0
@@ -189,6 +190,12 @@ btnimg = tk.PhotoImage(file=gopath('next.png'))
 button = Button(root, style="btn.TLabel",image=btnimg,command=next)
 button.place (x=200, y=290)
 button.configure (state = NORMAL,cursor="hand2")
+#help button
+helpimg = tk.PhotoImage(file=gopath('help.png'))
+helpUI = Button(root, style="btn.TLabel",image=helpimg)
+helpUI.place (x=345, y=15)
+helpUI.configure (state = NORMAL,cursor="hand2")
+helpUI.bind("<Button-1>", lambda e:webbrowser.open_new_tab('https://github.com/lmjaedentai/Mortage-Loan-Calculator#readme'))
 #table
 style.configure("Treeview", background="#D3D3D3",foreground="black",rowheight=25,fieldbackground="#D3D3D3")
 style.map('Treeview', background=[('selected', '#6C63FF')])
