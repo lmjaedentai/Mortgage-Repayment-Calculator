@@ -15,7 +15,7 @@ Calculate Mortage Loan🏡💵 and export analysis as CSV📑
 
 ```pip install pathlib```
 
-2. Install PIL (PhotoImage) to display image in tkinter GUI
+1. Install PIL (PhotoImage) to display image in tkinter GUI
 
 ```pip install pillow```
 
