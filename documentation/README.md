@@ -26,7 +26,7 @@ Calculate Mortage Loan🏡💵 and export analysis as CSV📑
 1. Download python installation package at [python.org][1]
 
 [1]: https://www.python.org/downloads/
-<img src="https://user-images.githubusercontent.com/63090071/127770302-3c47a63a-1725-4bf1-a414-b2afdf284774.jpg" alt="python web" style="zoom:33%;" />
+<img src="https://user-images.githubusercontent.com/63090071/127770302-3c47a63a-1725-4bf1-a414-b2afdf284774.jpg" alt="python web" style="zoom: 25%;" />
 
 
 2. Click the installation file to run and 
