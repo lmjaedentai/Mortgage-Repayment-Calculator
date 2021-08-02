@@ -20,17 +20,16 @@ Calculate Mortage Loan🏡💵 and export analysis as CSV📑
    - 👆🏻 click **cuztomize installation**
    - ✅ tick 2 **checkbox** at the bottom part
 
-3. ✅ Select **pip** in optional features
-
 <img src="https://user-images.githubusercontent.com/63090071/127770550-213d6fed-cbdf-45b3-995f-5f1c47cf4ba5.png" alt="image" width=400px />
 
-4. ✅ Select **add python to enviromental variables** in advanced features
+3. ✅ Select **pip** in optional features
 <img src="https://user-images.githubusercontent.com/63090071/127770657-46820dcc-56d6-4e27-8ba3-d5edb18e8bdd.png" alt="image"  width=400px/>
 
-5. 👆🏻 Click the **install** button to start the python installation
+
+4. ✅ Select **add python to enviromental variables** in advanced features
 <img src="https://user-images.githubusercontent.com/63090071/127770694-7baac8d2-0f3a-41ba-834d-8d760aa09d73.png" alt="image"  width=400px />
 
-
+5. 👆🏻 Click the **install** button to start the python installation
 <img src="https://user-images.githubusercontent.com/63090071/127770120-708a1cda-e509-4b4c-8b2e-98f12272157e.jpg" alt="pip" style="zoom: 67%;"  width=400px/>
 
 ### 📚Install library
