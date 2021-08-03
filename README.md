@@ -1,10 +1,9 @@
 # Mortage-Loan-Calculator
 Calculate Mortage Loan🏡💵 and export analysis as CSV📑
 
+ <a href="https://github.com/lmjaedentai/Mortage-Loan-Calculator/archive/refs/heads/main.zip" target="_blank"><img src="https://user-images.githubusercontent.com/63090071/127962530-b89c91b9-f8c3-44e3-906a-7b604010222c.png" width=220px></a>
 
  <img src="https://user-images.githubusercontent.com/63090071/127773896-563eb2ec-521c-4721-80b8-392e5be2d8e9.png" width=700px>
-
-
 
 <hr>
 
@@ -14,23 +13,22 @@ Calculate Mortage Loan🏡💵 and export analysis as CSV📑
 
 1. Download python installation package at [python.org][1] .
 
-<img src="https://user-images.githubusercontent.com/63090071/127770302-3c47a63a-1725-4bf1-a414-b2afdf284774.jpg" alt="python web"  width=400px />
+  <img src="https://user-images.githubusercontent.com/63090071/127770302-3c47a63a-1725-4bf1-a414-b2afdf284774.jpg" alt="python web"  width=400px />
 
 2. Click the installation file to run and 
    - 👆🏻 click **cuztomize installation**
    - ✅ tick 2 **checkbox** at the bottom part
 
-3. ✅ Select **pip** in optional features
-
 <img src="https://user-images.githubusercontent.com/63090071/127770550-213d6fed-cbdf-45b3-995f-5f1c47cf4ba5.png" alt="image" width=400px />
 
-4. ✅ Select **add python to enviromental variables** in advanced features
+3. ✅ Select **pip** in optional features
 <img src="https://user-images.githubusercontent.com/63090071/127770657-46820dcc-56d6-4e27-8ba3-d5edb18e8bdd.png" alt="image"  width=400px/>
 
-5. 👆🏻 Click the **install** button to start the python installation
+
+4. ✅ Select **add python to enviromental variables** in advanced features
 <img src="https://user-images.githubusercontent.com/63090071/127770694-7baac8d2-0f3a-41ba-834d-8d760aa09d73.png" alt="image"  width=400px />
 
-
+5. 👆🏻 Click the **install** button to start the python installation
 <img src="https://user-images.githubusercontent.com/63090071/127770120-708a1cda-e509-4b4c-8b2e-98f12272157e.jpg" alt="pip" style="zoom: 67%;"  width=400px/>
 
 ### 📚Install library
