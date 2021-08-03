@@ -1,0 +1,69 @@
+mula
+import modul tkitner, PIL, pathlib, webbrowser
+isytiharkan pemboleh ubah firstclick, totalperiod
+isytiharkan senarai allbalance=[], allinterest=[], allinterest=[]
+setkan firstclick = True
+setkan totalperiod = 0
+paparkan antaramuka 'root'
+tamat
+
+#fungsi gopath(path: str)
+    mula fungsi gopath(path: str)
+    return fungsi Path("./assets") atau Path(path)
+    tamat fungsi
+
+#fungsi next()
+    mula fungsi next()
+
+    #fungsi check(data):
+        mula fungsi
+        try
+            setkan data = float(data)
+            Jika data < 1
+                panggil fungsi error()
+                return
+            tamat Jika
+        except ValueError
+            panggil fungsi error()
+        Jika tidak
+            kirakan proceed = proceed + 1
+        tamat Jika
+        Jika proceed > 3
+            panggil fungsi calculate()
+        tamat Jika
+        tamat fungsi
+    
+    #fungsi error()
+        mula fungsi
+        Jika show == False
+            paparkan messagebox 'Incorrect input'
+            setkan show = True
+        tamat Jika
+        tamat fungsi
+
+    isytiharkan pemboleh ubah show, proceed
+    setkan proceed = 0
+    setkan show = False
+    panggil fungsi check(inputqty2.get())
+    panggil fungsi check(inputqty3.get())
+    panggil fungsi check(inputqty4.get())
+    panggil fungsi check(inputqty1.get())
+    tamat fungsi
+
+#fungsi calculate()
+    mula fungsi
+    membesarkan saiz antaramuka kepada 790x380
+    isytiharkan pemboleh ubah period, totalperiod, totalinterest, principle, interest, loan, downpayment, rate, time
+    setkan period = 0
+	setkan totalprinciple = 0
+	setkan totalinterest = 0
+	setkan principle = 0.00 
+	setkan interest = 0.00 
+    setkan loan = data yang dimasukkan
+    setkan downpayment = data yang dimasukkan
+    setkan rate = data yang dimasukkan
+    setkan time = data yang dimasukkan
+    jika firstclick = False:
+        isytiharkan pemboleh ubah x
+        setkan x = len(table.get_children())
+        
