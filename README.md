@@ -1,12 +1,9 @@
 # Mortage-Loan-Calculator
 Calculate Mortage Loan🏡💵 and export analysis as CSV📑
 
- <img src="https://user-images.githubusercontent.com/63090071/127962032-93f0d4f7-181a-4879-aad8-813a2ec85f30.png" onclick="location.href='https://github.com/lmjaedentai/Mortage-Loan-Calculator/archive/refs/heads/main.zip' ">
-
-
+ <a href="https://github.com/lmjaedentai/Mortage-Loan-Calculator/archive/refs/heads/main.zip" target="_blank"><img src="https://user-images.githubusercontent.com/63090071/127962530-b89c91b9-f8c3-44e3-906a-7b604010222c.png" width=250px></a>
+ <hr>
  <img src="https://user-images.githubusercontent.com/63090071/127773896-563eb2ec-521c-4721-80b8-392e5be2d8e9.png" width=700px>
-
-
 
 <hr>
 
