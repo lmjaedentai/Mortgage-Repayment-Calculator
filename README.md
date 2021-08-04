@@ -9,10 +9,10 @@ Calculate Mortage Loan🏡💵 and export analysis as CSV📑
 
  <a href="https://github.com/lmjaedentai/Mortage-Loan-Calculator/raw/main/Mortage_Installer.exe" target="_blank"><img src="https://user-images.githubusercontent.com/63090071/127962530-b89c91b9-f8c3-44e3-906a-7b604010222c.png" width=220px></a>
 <br>
-👆🏻 click here if you want to install app version of Mortage Loan Calculator
+👆🏻 Click here if you want to install **💻app version** of Mortage Loan Calculator
 
 ## [Original Python version](/documentation/py.md) 
-👆🏻 click here if you want to install original python version
+👆🏻 Click here if you want to install original 🐍python version
 
 <hr>
 
