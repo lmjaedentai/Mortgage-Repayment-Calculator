@@ -1,12 +1,9 @@
 # Mortage-Loan-Calculator
 Calculate Mortage Loan🏡💵 and export analysis as CSV📑
 
-
  <a href="https://github.com/lmjaedentai/Mortage-Loan-Calculator/raw/main/Mortage_Installer.exe" target="_blank"><img src="https://user-images.githubusercontent.com/63090071/127962530-b89c91b9-f8c3-44e3-906a-7b604010222c.png" width=220px></a>
 
-
-
- <img src="https://user-images.githubusercontent.com/63090071/127773896-563eb2ec-521c-4721-80b8-392e5be2d8e9.png" width=700px>
+ <img src="https://user-images.githubusercontent.com/63090071/128178725-a6db6dd3-8969-4fd2-a132-c0777c4d3916.png" width=700px>
 
 <hr>
 
@@ -48,7 +45,5 @@ Calculate Mortage Loan🏡💵 and export analysis as CSV📑
 
 - 🎁 If you want to contact me to report bug or suggest new feautres, you can reach me at taijaeden@gmail.com
 - 🤭 Thanks for using **Mortage Loan Calculator**
-
-
 
 [1]: https://www.python.org/downloads/
