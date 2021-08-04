@@ -4,11 +4,13 @@
 
 1. Download python installation package at [python.org][1] .
 
+[1]: https://www.python.org/downloads/
+
   <img src="https://user-images.githubusercontent.com/63090071/127770302-3c47a63a-1725-4bf1-a414-b2afdf284774.jpg" alt="python web"  width=400px />
 
 2. Click the installation file to run and 
-   - 👆🏻 click **cuztomize installation**
-   - ✅ tick 2 **checkbox** at the bottom part
+ - 👆🏻 click **cuztomize installation**
+ - ✅ tick 2 **checkbox** at the bottom part
 
 <img src="https://user-images.githubusercontent.com/63090071/127770550-213d6fed-cbdf-45b3-995f-5f1c47cf4ba5.png" alt="image" width=400px />
 
@@ -20,9 +22,11 @@
 <img src="https://user-images.githubusercontent.com/63090071/127770694-7baac8d2-0f3a-41ba-834d-8d760aa09d73.png" alt="image"  width=400px />
 
 5. 👆🏻 Click the **install** button to start the python installation
-<img src="https://user-images.githubusercontent.com/63090071/127770120-708a1cda-e509-4b4c-8b2e-98f12272157e.jpg" alt="pip" style="zoom: 67%;"  width=400px/>
+
 
 ### 📚Install library
+
+<img src="https://user-images.githubusercontent.com/63090071/127770120-708a1cda-e509-4b4c-8b2e-98f12272157e.jpg" alt="pip" style="zoom: 67%;"  width=400px/>
 
 1. Go to cmd to install Pathlib
 ```pip install pathlib```
