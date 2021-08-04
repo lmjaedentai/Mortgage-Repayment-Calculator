@@ -36,7 +36,7 @@ Calculate Mortage Loan🏡💵 and export analysis as CSV📑
  - you can right click it to open with Excel
 
 <img src="https://user-images.githubusercontent.com/63090071/127771940-e044c371-69f8-4cc3-b697-80c549fab2e8.png" alt="image" width=400px />
-<img src="https://user-images.githubusercontent.com/63090071/127772233-5aa95118-a4f3-4a24-81be-c2827321e1fd.png" alt="image"  width=400px />
+<img src="https://user-images.githubusercontent.com/63090071/128185543-d908cb60-29c7-4891-abe8-4261f5eaa092.png" alt="image"  width=400px />
 
 <hr>
 
