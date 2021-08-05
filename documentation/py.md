@@ -14,12 +14,11 @@
 1. 👆🏻 Click the 🟩green button at the **top right side** of [github.com][2]
 2. 💾 Download the **zip file** and **extract** it
 
-[2]: https://github.com/lmjaedentai/Mortgage-Loan-Calculator
-
+[2]: https://github.com/lmjaedentai/Mortgage-Repayment-Calculator
 #### Through cmd
 
 📋 paste this code in cmd if you have installed git in your pc
-```git clone https://github.com/lmjaedentai/Mortgage-Loan-Calculator.git```
+```git clone https://github.com/lmjaedentai/Mortgage-Repayment-Calculator.git```
 
 <hr>
 
