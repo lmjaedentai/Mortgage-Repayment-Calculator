@@ -5,6 +5,9 @@
 
 [1]:https://github.com/lmjaedentai/Mortgage-Repayment-Calculator/raw/main/jden_loan.exe_setup.exe
 
+ <a href="https://github.com/lmjaedentai/Mortgage-Repayment-Calculator" target="_blank"><img src="https://myrocklandcounty.files.wordpress.com/2016/09/bmain.jpg" width=220px></a>
+
+
 ## 💻 Installation
 
 #### Through [github.com][2]
