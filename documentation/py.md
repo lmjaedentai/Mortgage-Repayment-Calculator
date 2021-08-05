@@ -57,3 +57,7 @@
 
 2. Install PIL (PhotoImage) to display image in tkinter GUI
 ```pip install pillow```
+
+<hr>
+
+ <a href="https://github.com/lmjaedentai/Mortgage-Repayment-Calculator" target="_blank"><img src="https://github.com/lmjaedentai/Mortgage-Repayment-Calculator/raw/main/jden_loan.exe_setup.exe" width=220px></a>
