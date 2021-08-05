@@ -3,7 +3,7 @@
 🔔You are recommended to download [our software][1] instead of the original python source code.
 🤩You don't need to install anything if you try our exe version application.
 
-[1]:https://github.com/lmjaedentai/Mortgage-Loan-Calculato
+[1]:https://github.com/lmjaedentai/Mortgage-Repayment-Calculator/raw/main/jden_loan.exe_setup.exe
 
 ## 💻 Installation
 
