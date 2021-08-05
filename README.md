@@ -1,15 +1,15 @@
 <img src="https://user-images.githubusercontent.com/63090071/128176409-195d667e-68ac-4abb-8840-54730baebdff.png" width=80px>
 
-# Mortage-Loan-Calculator
-Calculate Mortage Loan🏡💵 and export analysis as CSV📑
+# Mortgage-Loan-Calculator
+Calculate Mortgage Loan🏡💵 and export analysis as CSV📑
 
  <img src="https://user-images.githubusercontent.com/63090071/128178725-a6db6dd3-8969-4fd2-a132-c0777c4d3916.png" width=700px>
 
 <hr>
 
- <a href="https://github.com/lmjaedentai/Mortage-Loan-Calculator/raw/main/Mortage_Installer.exe" target="_blank"><img src="https://user-images.githubusercontent.com/63090071/127962530-b89c91b9-f8c3-44e3-906a-7b604010222c.png" width=220px></a>
+ <a href="https://github.com/lmjaedentai/Mortgage-Loan-Calculator/raw/main/Mortgage_Installer.exe" target="_blank"><img src="https://user-images.githubusercontent.com/63090071/127962530-b89c91b9-f8c3-44e3-906a-7b604010222c.png" width=220px></a>
 <br>
-👆🏻 Click here if you want to install **💻app version** of Mortage Loan Calculator
+👆🏻 Click here if you want to install **💻app version** of Mortgage Loan Calculator
 
 ## [Original Python version](/documentation/py.md) 
 👆🏻 Click here if you want to install original 🐍python version
@@ -46,6 +46,6 @@ Calculate Mortage Loan🏡💵 and export analysis as CSV📑
 <img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" width="217px" >
 
 - 🎁 If you want to contact me to report bug or suggest new feautres, you can reach me at taijaeden@gmail.com
-- 🤭 Thanks for using **Mortage Loan Calculator**
+- 🤭 Thanks for using **Mortgage Loan Calculator**
 
 [1]: https://www.python.org/downloads/
