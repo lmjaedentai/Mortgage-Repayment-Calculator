@@ -60,4 +60,4 @@
 
 <hr>
 
- <a href="https://github.com/lmjaedentai/Mortgage-Repayment-Calculator" target="_blank"><img src="https://github.com/lmjaedentai/Mortgage-Repayment-Calculator/raw/main/jden_loan.exe_setup.exe" width=220px></a>
+ <a href="https://github.com/lmjaedentai/Mortgage-Repayment-Calculator" target="_blank"><img src="https://myrocklandcounty.files.wordpress.com/2016/09/bmain.jpg" width=220px></a>
