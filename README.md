@@ -38,8 +38,11 @@ Calculate Mortgage Loan🏡💵 and export analysis as CSV📑
  - you can right click it to open with Excel
 
 <img src="https://user-images.githubusercontent.com/63090071/127771940-e044c371-69f8-4cc3-b697-80c549fab2e8.png" alt="image" width=400px />
-<img src="https://user-images.githubusercontent.com/63090071/128185543-d908cb60-29c7-4891-abe8-4261f5eaa092.png" alt="image"  width=400px />
+
+- you also can import it and convert to Excel / Google Sheet
 <img src="https://www.freecodecamp.org/news/content/images/2019/10/image-35.png" alt="image"  width=400px />
+<img src="https://user-images.githubusercontent.com/63090071/128185543-d908cb60-29c7-4891-abe8-4261f5eaa092.png" alt="image"  width=400px />
+
 <hr>
 
 ## 💌 Contact & support us
