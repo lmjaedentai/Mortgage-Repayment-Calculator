@@ -14,6 +14,7 @@ Calculate Mortgage Loan🏡💵 and export analysis as CSV📑
 ## [Original Python version](/documentation/py.md) 
 👆🏻 Click here if you want to install original 🐍python version
 
+<br>
 <hr>
 
 ## 💡 Tutorial
@@ -33,15 +34,18 @@ Calculate Mortgage Loan🏡💵 and export analysis as CSV📑
 4. 📂 Select the path you want to save the csv file
 <img src="https://user-images.githubusercontent.com/63090071/127771777-0b9488bf-6b18-4d49-a80a-e589a6924da4.png" alt="image" width=400px />
 
-5. 🤔 What is CSV?
+<br>
 
- - you can right click it to open with Excel
+### 🤔 What is CSV?
 
-<img src="https://user-images.githubusercontent.com/63090071/127771940-e044c371-69f8-4cc3-b697-80c549fab2e8.png" alt="image" width=400px />
+📗 You can import it and convert to Excel / Google Sheet
 
-- you also can import it and convert to Excel / Google Sheet
 <img src="https://www.freecodecamp.org/news/content/images/2019/10/image-35.png" alt="image"  width=400px />
 <img src="https://user-images.githubusercontent.com/63090071/128185543-d908cb60-29c7-4891-abe8-4261f5eaa092.png" alt="image"  width=400px />
+
+📡 You also can try to open it online with [csv-viewer-online][2] from limonte in github
+
+<img src="https://user-images.githubusercontent.com/63090071/128448241-d20909e5-f272-4fed-8774-588c727a1653.png" alt="image"  width=400px />
 
 <hr>
 
@@ -52,3 +56,4 @@ Calculate Mortgage Loan🏡💵 and export analysis as CSV📑
 - 🤭 Thanks for using **Mortgage Loan Calculator**
 
 [1]: https://www.python.org/downloads/
+[2]: https://limonte.github.io/csv-viewer-online/
