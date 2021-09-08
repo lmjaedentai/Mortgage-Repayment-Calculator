@@ -43,7 +43,7 @@ Calculate Mortgage Loan🏡💵 and export analysis as CSV📑
 <img src="https://www.freecodecamp.org/news/content/images/2019/10/image-35.png" alt="image"  width=400px />
 <img src="https://user-images.githubusercontent.com/63090071/128185543-d908cb60-29c7-4891-abe8-4261f5eaa092.png" alt="image"  width=400px />
 
-📡 You also can try to open it online with [csv-viewer-online][2] from limonte in github
+💖 You also can try to open it online with [csv-viewer-online][2] from limonte in github
 
 <img src="https://user-images.githubusercontent.com/63090071/128448241-d20909e5-f272-4fed-8774-588c727a1653.png" alt="image"  width=400px />
 
