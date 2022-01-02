@@ -10,7 +10,7 @@ You don't need to install anything if you try our exe version application.
 
 ## Installation
 
-#### Through [github.com][2]
+### Through [github.com][2]
 
 <img src="https://user-images.githubusercontent.com/63090071/127771533-3d4660c8-c1c8-4cc6-ac14-4fcd92a760bd.png" alt="image"  width=400px />
 
@@ -18,9 +18,10 @@ You don't need to install anything if you try our exe version application.
 2. Download the **zip file** and **extract** it
 
 [2]: https://github.com/lmjaedentai/Mortgage-Repayment-Calculator
-#### Through cmd
+### Through cmd
 
-paste this code in cmd if you have installed git in your pc
+Paste this code in cmd if you have installed git in your pc
+
 ```git clone https://github.com/lmjaedentai/Mortgage-Repayment-Calculator.git```
 
 <hr>
