@@ -5,7 +5,6 @@ Calculate Mortgage Loan🏡💵 and export analysis as CSV📑
 
  <img src="https://user-images.githubusercontent.com/63090071/128178725-a6db6dd3-8969-4fd2-a132-c0777c4d3916.png" width=700px>
 
-<hr>
 
  <a href="https://github.com/lmjaedentai/Mortgage-Repayment-Calculator/raw/main/jden_loan.exe_setup.exe" target="_blank"><img src="https://user-images.githubusercontent.com/63090071/127962530-b89c91b9-f8c3-44e3-906a-7b604010222c.png" width=220px></a>
 <br>
@@ -22,11 +21,8 @@ Click here if you want to install original python version
 1. Open main.py file to run the program file
 <img src="https://user-images.githubusercontent.com/63090071/127771595-8b563ced-0942-432f-b011-ada51bc49b0e.png" alt="image"  width=400px />
 
-2.Input correct data and click the next button
-
+2. Input correct data and click the next button
 <img src="https://user-images.githubusercontent.com/63090071/127771679-5413b686-15f2-4d9f-9299-5c5760448a3d.png" alt="image"  width=400px />
-
-> No alphabate & symbol are allowed
 
 3. You may click the export button to export csv
 <img src="https://user-images.githubusercontent.com/63090071/127771754-fc279456-e8b1-4b31-abd8-dab6b8ec7ae1.png" alt="image"  width=400px />
