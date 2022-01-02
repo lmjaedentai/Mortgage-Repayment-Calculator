@@ -4,16 +4,13 @@
 Calculate Mortgage Loan🏡💵 and export analysis as CSV📑
 
  <img src="https://user-images.githubusercontent.com/63090071/128178725-a6db6dd3-8969-4fd2-a132-c0777c4d3916.png" width=700px>
-
-
+<br>
  <a href="https://github.com/lmjaedentai/Mortgage-Repayment-Calculator/raw/main/jden_loan.exe_setup.exe" target="_blank"><img src="https://user-images.githubusercontent.com/63090071/127962530-b89c91b9-f8c3-44e3-906a-7b604010222c.png" width=220px></a>
 <br>
 Click here if you want to install **app version** of Mortgage Loan Calculator
 
 ## [Original Python version](/documentation/py.md) 
 Click here if you want to install original python version
-
-<br>
 <hr>
 
 ## Tutorial
