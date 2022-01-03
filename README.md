@@ -17,15 +17,19 @@ Click here if you want to install original python version
 ## Tutorial
 
 1. Open main.py file to run the program file
+
 <img src="https://user-images.githubusercontent.com/63090071/127771595-8b563ced-0942-432f-b011-ada51bc49b0e.png" alt="image"  width=400px />
 
 2. Input correct data and click the next button
+
 <img src="https://user-images.githubusercontent.com/63090071/127771679-5413b686-15f2-4d9f-9299-5c5760448a3d.png" alt="image"  width=400px />
 
 3. You may click the export button to export csv
+
 <img src="https://user-images.githubusercontent.com/63090071/127771754-fc279456-e8b1-4b31-abd8-dab6b8ec7ae1.png" alt="image"  width=400px />
 
 4. Select the path you want to save the csv file
+
 <img src="https://user-images.githubusercontent.com/63090071/127771777-0b9488bf-6b18-4d49-a80a-e589a6924da4.png" alt="image" width=400px />
 
 <br>
