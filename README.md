@@ -5,14 +5,14 @@ Calculate Mortgage Loan🏡💵 and export analysis as CSV📑
 
  <img src="https://user-images.githubusercontent.com/63090071/128178725-a6db6dd3-8969-4fd2-a132-c0777c4d3916.png" width=700px>
 <br>
+
+Click the button to install Mortgage Loan Calculator or [click here](/src/README.md) to install original python version
+
  <a href="https://github.com/lmjaedentai/Mortgage-Repayment-Calculator/raw/main/jden_loan.exe_setup.exe" target="_blank"><img src="https://user-images.githubusercontent.com/63090071/127962530-b89c91b9-f8c3-44e3-906a-7b604010222c.png" width=220px></a>
 <br>
 
-Click here if you want to install **app version** of Mortgage Loan Calculator
 
-### [Original Python version](/src/README.md) 
-Click here if you want to install original python version
-<hr>
+
 
 ## Tutorial
 
@@ -45,7 +45,6 @@ You also can try to open it online with [csv-viewer-online][2] from limonte in g
 
 <img src="https://user-images.githubusercontent.com/63090071/128448241-d20909e5-f272-4fed-8774-588c727a1653.png" alt="image"  width=400px />
 
-<hr>
 
 ## Contact & support us
 <img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" width="217px" >
