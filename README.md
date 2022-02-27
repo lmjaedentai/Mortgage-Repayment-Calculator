@@ -10,7 +10,7 @@ Calculate Mortgage Loan🏡💵 and export analysis as CSV📑
 
 Click here if you want to install **app version** of Mortgage Loan Calculator
 
-### [Original Python version](/documentation/py.md) 
+### [Original Python version](/src/README.md) 
 Click here if you want to install original python version
 <hr>
 
