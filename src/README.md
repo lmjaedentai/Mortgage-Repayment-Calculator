@@ -24,7 +24,7 @@ Paste this code in cmd if you have installed git in your pc
 
 ```git clone https://github.com/lmjaedentai/Mortgage-Repayment-Calculator.git```
 
-<hr>
+<br>
 
 ## Prerequisite
 ### Install Python 
@@ -56,7 +56,7 @@ Paste this code in cmd if you have installed git in your pc
 
 <img src="https://user-images.githubusercontent.com/63090071/127770120-708a1cda-e509-4b4c-8b2e-98f12272157e.jpg" alt="pip" style="zoom: 67%;"  width=400px/>
 
-1. Go to cmd to install Pathlib
+1. Go cmd to install Pathlib
 ```pip install pathlib```
 
 2. Install PIL (PhotoImage) to display image in tkinter GUI
